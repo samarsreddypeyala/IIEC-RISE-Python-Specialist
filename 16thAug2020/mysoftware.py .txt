@@ -1,0 +1,7 @@
+import pyttsx3
+import os
+
+pyttsx3.speak("Welcome to my tools")
+
+p = input("enter ur choice of program : ")
+os.system(p)
